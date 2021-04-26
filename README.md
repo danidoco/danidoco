@@ -1,5 +1,9 @@
 <h3 align="center">Hobbyist Programmer</h3>
-I am a student who does programming as a hobby.
+<p align="center">
+  I am a student who does programming as a hobby.
+  <br>
+  Recently I'm working on operating system development.
+<p>
 
 ### 🔭 I’m currently working on ...
   - Operating System
