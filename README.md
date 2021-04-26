@@ -1,4 +1,4 @@
-### Hobbyist Programmer
+<h3 align="center">Hobbyist Programmer</h3>
 I am a student who does programming as a hobby.
 
 ### 🔭 I’m currently working on ...
