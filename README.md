@@ -1,4 +1,7 @@
 <h3 align="center">Hobbyist Programmer</h3>
+
+![GitHub Logo](/\tux.png)
+
 <p align="center">
   I am a student who does programming as a hobby.
   <br>
