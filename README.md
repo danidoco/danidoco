@@ -1,6 +1,13 @@
-<h3 align="center">Hobbyist Programmer</h3>
+<h3 align="center">
+  Hobbyist Programmer
+</h3>
+
+<div align="center">
 
 ![Tux](/tux.png)
+
+</div>
+
 
 <p align="center">
   I am a student who does programming as a hobby.
