@@ -3,16 +3,14 @@
 </h3>
 
 <div align="center">
-
-![Tux](/tux.png)
-
+  ![Tux](/tux.png)
 </div>
 
 
 <p align="center">
   I am a student who does programming as a hobby.
   <br>
-  Recently I'm working on operating system development.
+  Currently I'm working on android app development, and interest in computer graphics.
 <p>
 
 ### 🔭 I’m currently working on ...
@@ -20,10 +18,10 @@
 
 ### 🌱 I’m currently learning ...
   - GLFW
-  - Computer Graphics
 
 ### 🌱 I’m currently interested in ...
   - Game Engine
+  - Computer Graphics
   - Database
 
 ### 👯 I’m looking to collaborate on ...
