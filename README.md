@@ -10,7 +10,7 @@
 <p align="center">
   I am a student who does programming as a hobby.
   <br>
-  Currently I'm working on android app development, and interest in computer graphics.
+  Currently I'm working on android app development, and interested in computer graphics.
 <p>
 
 ### 🔭 I’m currently working on ...
