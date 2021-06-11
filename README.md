@@ -3,7 +3,7 @@
 </h3>
 
 <div align="center">
-![Tux](/tux.png)
+  <img src="/tux.png">
 </div>
 
 
