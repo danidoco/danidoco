@@ -6,19 +6,18 @@
 <p>
 
 ### 🔭 I’m currently working on ...
-  - Operating System
-  - File System
+  - Android App
 
 ### 🌱 I’m currently learning ...
-  - C++ Language
-  - Assembly Language
+  - GLFW
+  - Computer Graphics
 
 ### 🌱 I’m currently interested in ...
-  - Microarchitecture
-  - Electronics
+  - Game Engine
+  - Database
 
 ### 👯 I’m looking to collaborate on ...
-  - OS Development
+  - Game Engine
 
 
 <!--
